@@ -1,3 +1,7 @@
 [submodule "keyboard-web"]
 	path = keyboard-web
 	url = https://github.com/Amaansal/keyboard-web.git
+	
+[submodule "HTML-CSS-JS-Projects"]
+	path = HTML-CSS-JS-Projects
+	url = https://github.com/Amaansal/HTML-CSS-JS-Projects.git
