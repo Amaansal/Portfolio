@@ -1,0 +1,3 @@
+[submodule "keyboard-web"]
+	path = keyboard-web
+	url = https://github.com/Amaansal/keyboard-web.git
