@@ -4,6 +4,8 @@
   justify-content: center;
   height: 100vh;
   column-gap: 200px;
+  flex-wrap: wrap;
+  margin-top: 250px;
 }
 
 a>div{
@@ -12,7 +14,7 @@ a>div{
   border: none;
   display: flex;
   justify-content: center;
-  color: black;
+  color: white;
   text-decoration: none;
   text-align: center;
 }
@@ -38,7 +40,7 @@ a:hover{
 }
 
 #real-estate{
-  background-image: url(Real-estate-web/house-pics/house1/exterior.jpg);
+  background-image: url(../HTML-CSS-JS-Projects/Real-estate-web/house-pics/house1/exterior2.jpg);
 }
 #calculator{
   background-image: url(calculator-thumbnail.PNG);
@@ -48,6 +50,8 @@ a:hover{
 }
 #kbd-web{
   background-image: url(kbd-web-pic.PNG);
-  background-size: cover;
-  
+  background-size: cover;  
+}
+#rock-ppr-scissors{
+  background-image: url(rock-ppr-scissors.PNG);
 }
